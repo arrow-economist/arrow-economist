@@ -6,7 +6,11 @@
 Ph.D. Life는 계속된다. 👨🏼‍💻
 
 ### Skills
+Matlab, R, Python.
+LaTeX
 
+### Languages
+Korean(Native), English(Fluent), Spanish(Un poquito)
 
 <!--
 **arrow-economist/arrow-economist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
