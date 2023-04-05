@@ -12,6 +12,10 @@ LaTeX
 ### Languages
 Korean(Native), English(Fluent), Spanish(Un poquito)
 
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kennetharrow.tistory.com/)](https://kennetharrow.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arrow.economist@gmail.com)](mailto:arrow.economist@gmail.com)
+
 <!--
 **arrow-economist/arrow-economist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
