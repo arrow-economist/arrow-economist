@@ -6,14 +6,16 @@
 Ph.D. Life는 계속된다. 👨🏼‍💻
 
 ### Skills
-Matlab, R, Python.
+Dexterous: Matlab, R
+Mid-level: Python
+Learning : C, C++
 LaTeX
 
 ### Languages
 Korean(Native), English(Fluent), Spanish(Un poquito)
 
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kennetharrow.tistory.com/)](https://kennetharrow.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kennetharrow.tistory.com/)](https://arrow-economist.github.io)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arrow.economist@gmail.com)](mailto:arrow.economist@gmail.com)
 
 <!--
