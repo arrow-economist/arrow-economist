@@ -8,7 +8,7 @@ Ph.D. Life는 계속된다. 👨🏼‍💻
 ### Skills
 Dexterous: Matlab, R  
 Mid-level: Python  
-Learning : C, C++  
+Learning : C, C++, Julia  
 LaTeX  
 
 ### Languages
