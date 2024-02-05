@@ -8,8 +8,7 @@ Ph.D. Life는 계속된다. 👨🏼‍💻
 ### Skills
 Dexterous: Matlab, R  
 Mid-level: Python  
-Learning : C, C++, Julia  
-LaTeX  
+Learning : C, C++, Julia
 
 ### Languages
 Korean(Native), English(Fluent), Spanish(Un poquito)
